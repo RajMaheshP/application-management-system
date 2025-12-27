@@ -1,8 +1,8 @@
-\# Application Management System
+\# 📄 Application Management System
 
 
 
-A PHP and MySQL based web application that allows users to submit applications and enables administrators to review, approve, or reject them through a secure admin dashboard.
+A secure \*\*PHP \& MySQL-based web application\*\* that allows users to submit applications and enables administrators to review, approve, or reject them through a role-based admin dashboard.
 
 
 
@@ -14,49 +14,27 @@ A PHP and MySQL based web application that allows users to submit applications a
 
 
 
-\### User Module
+\### 👤 User Module
 
 \- User registration with unique email validation
 
-\- Secure login and logout using sessions
+\- Secure login \& logout using PHP sessions
 
-\- Submit applications
+\- Submit applications with subject and message
 
 \- Track application status (Pending / Approved / Rejected)
 
 
 
-\### Admin Module
+\### 🛡️ Admin Module
 
 \- Admin authentication with role-based access
 
-\- View all user applications
+\- View all user applications in one dashboard
 
 \- Approve or reject applications
 
-\- Status updates reflected in real time
-
-
-
----
-
-
-
-\## 🛠️ Tech Stack
-
-
-
-\- PHP
-
-\- MySQL
-
-\- HTML
-
-\- CSS
-
-\- Apache (XAMPP)
-
-\- Git \& GitHub
+\- Real-time status updates reflected for users
 
 
 
@@ -65,8 +43,6 @@ A PHP and MySQL based web application that allows users to submit applications a
 
 
 \## 🔐 Security Highlights
-
-
 
 \- Password hashing using `password\_hash()`
 
@@ -82,11 +58,27 @@ A PHP and MySQL based web application that allows users to submit applications a
 
 
 
+\## 🧰 Tech Stack
+
+\- \*\*Frontend:\*\* HTML, CSS  
+
+\- \*\*Backend:\*\* PHP  
+
+\- \*\*Database:\*\* MySQL  
+
+\- \*\*Server:\*\* Apache (XAMPP)
+
+
+
+---
+
+
+
 \## ⚙️ Setup Instructions
 
 
 
-1\. Install XAMPP and start Apache \& MySQL
+1\. Install \*\*XAMPP\*\* and start \*\*Apache \& MySQL\*\*
 
 2\. Clone the repository:
 
